@@ -9,7 +9,7 @@
     "start": "webpack-dev-server --open  --mode=development"
   },
   "keywords": [],
-  "author": "Shamin Meerankutty",
+  "author": "Ashik Meerankutty",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.0.0",
