@@ -1,5 +1,5 @@
 {
-  "name": "CEA Website",
+  "name": "Webpack_Sass_Bootstrap",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start": "webpack-dev-server --open  --mode=development"
   },
   "keywords": [],
-  "author": "Ashik Meerankutty",
+  "author": "Shamin Meerankutty",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.0.0",
